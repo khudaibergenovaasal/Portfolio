@@ -1,0 +1,298 @@
+.container {
+    width: 1920px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.train {
+    background: rgb(9, 69, 86);
+}
+
+.li {
+    text-decoration: none;
+    color: rgb(161, 181, 187);
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin-left: 700px;
+}
+
+.men {
+    position: absolute;
+    width: 918px;
+    height: 755px;
+    left: 787px;
+    top: 5px;
+}
+
+head {
+    height: 700px;
+    width: 1920px;
+    background: rgb(9, 69, 86);
+
+}
+
+.section2 {
+    height: 2300px;
+    background: rgb(255, 255, 255);
+}
+
+.st {
+    color: rgb(38, 90, 106);
+}
+
+.button {
+    width: 195px;
+    height: 65px;
+    border-radius: 30px;
+    background: rgb(9, 69, 86);
+    color: white;
+}
+
+.h1 {
+    color: white;
+}
+
+.p {
+    color: rgb(132, 148, 153);
+}
+
+.work {
+    width: 137px;
+    height: 61px;
+    background: rgb(9, 69, 86);
+    color: white;
+    border: none;
+}
+
+.q {
+    width: 273px;
+    height: 251px;
+    box-shadow: 0px 41.78px 33.42px 0px rgba(0, 0, 0, 0.05);
+    background: rgb(255, 255, 255);
+
+}
+
+.l {
+    margin-left: 20px;
+}
+
+.web {
+    width: 273px;
+    height: 251px;
+    box-shadow: 0px 41.78px 33.42px 0px rgba(0, 0, 0, 0.05);
+    background: rgb(8, 84, 108);
+}
+
+.blue {
+    height: 730px;
+    background: rgb(8, 84, 108);
+}
+
+.flower {
+    display: flex;
+}
+
+.login {
+    width: 585px;
+    height: 345.37px;
+    position: relative;
+    top: 192px;
+    right: 324px;
+}
+
+.fog {
+    
+}
+
+.com {
+    color: rgb(255, 168, 0);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.6px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.cover {
+    display: flex;
+    gap: 140px;
+}
+
+.r {
+    color: rgb(117, 117, 117);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.visual {
+    display: flex;
+    gap: 30px;
+}
+
+.go {
+    color: rgb(8, 84, 108);
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 28.8px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.kom {
+    color: rgb(8, 84, 108);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.6px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.feature {
+    color: rgb(8, 84, 108);
+    font-family: Inter;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 56.25px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 200px;
+}
+
+.develop {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.der {
+    color: rgb(15, 18, 33);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.ser {
+    color: rgb(105, 105, 105);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.len {
+    padding: 78px 218px;
+
+}
+
+.hire {
+    width: 137px;
+    height: 61px;
+    border-radius: 25px;
+    color: white;
+
+    background: rgb(255, 166, 58);
+}
+
+.none {
+    height: 1004px;
+    background: rgb(9, 69, 86);
+    position: relative;
+    top: -20px;
+}
+
+.ler {
+    color: rgb(8, 84, 108);
+    font-family: Inter;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-align: center;
+}
+
+.per {
+    color: rgb(38, 90, 106);
+    font-family: Schoolbell;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 22.4px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+.statistic {
+    position: relative;
+    width: 1170px;
+    height: 323px;
+    left: 376px;
+    top: -150px;
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+    box-shadow: 0px 73px 80px 0px rgba(0, 0, 0, 0.06);
+}
+
+.main {
+    width: 1170px;
+    height: 2125px;
+    margin: 0 auto;
+}
+
+.ken {
+    position: absolute;
+    width: 537px;
+    height: 544px;
+    left: 375px;
+    right: 1100.05px;
+    top: 253px;
+    bottom: 554.5px;
+}
+
+.link {
+    position: relative;
+    top: 40px;
+    margin-left: 350px;
+}
+
+.btn {
+    margin-left: 80px;
+    width: 140px;
+    height: 58px;
+    background: rgb(9, 69, 86);
+    border-radius: 25px;
+    position: relative;
+    top: -20px;
+    border: none;
+}
+
+.wer {
+    display: flex;
+    justify-content: space-between;
+
+}
